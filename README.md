@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Brarus
+- 👋 Hi, I’m @Pavel 
 - 👀 I’m interested in 3D modeling and programming
 - 🌱 I’m currently learning Python programming language
 - 💞️ I’m looking to collaborate on project in python to gain experience
